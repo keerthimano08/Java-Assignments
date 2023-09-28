@@ -23,8 +23,8 @@ public class ReverseString {
 				System.out.println();
 				
 				int length = test.length();
-				for(int i=length-1;i>=0;i--) {
-					System.out.print(test.charAt(i));
+				for(int j=length-1;j>=0;j--) {
+					System.out.print(test.charAt(j));
 				}
 	}
 
